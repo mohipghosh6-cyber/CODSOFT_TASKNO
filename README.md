@@ -1,38 +1,77 @@
-# Android Development Internship - CodeSoft
+# 📱 CodeSoft Android Development Internship
 
-This repository contains all the tasks completed for the CodeSoft Android Development Internship.
+Welcome to my Android Development Internship repository for **CodeSoft**.
 
-## Task 1: Android To-Do List App
+This repository contains all the Android application tasks completed during the internship using **Java** and **Android Studio**.
 
-### Description
-A simple Android To-Do List application developed using Java and Android Studio.
+---
 
-### Features
+## 🚀 Completed Tasks
+
+### ✅ Task 1 – To-Do List App
+A simple productivity app that helps users manage daily tasks.
+
+**Features**
 - Add new tasks
-- Edit tasks
+- Edit existing tasks
 - Delete tasks
 - Mark tasks as completed
+- Clean and user-friendly interface
 
 ---
 
-## Task 2: Android Quiz App
+### ✅ Task 2 – Quiz App
+An interactive quiz application with score calculation.
 
-### Description
-A simple Quiz Application developed using Java and Android Studio.
-
-### Features
-- Multiple choice questions
-- Instant correct/wrong feedback
-- Next Question button
-- User-friendly interface
+**Features**
+- Multiple-choice questions
+- Instant answer selection
+- Final score display
+- Easy navigation
+- Simple and responsive UI
 
 ---
 
-## Technologies Used
+### ✅ Task 3 – Alarm Clock App
+A basic alarm application designed with essential alarm functionalities.
+
+**Features**
+- Live Date & Time
+- Set Alarm
+- Alarm Tone Selection
+- Alarm ON/OFF Switch
+- Multiple Alarm List
+- Snooze Button
+- Dismiss Button
+
+---
+
+## 🛠️ Technologies Used
+
 - Java
 - Android Studio
 - XML
-- SQLite (Task 1)
+- Git & GitHub
 
-## Developer
-Mohip Ghosh
+---
+
+## 📂 Repository Structure
+
+```
+CODSOFT_TASKSNO/
+├── To_Do_List/
+├── Quiz_App2/
+├── Alarm_Clock_App1/
+```
+
+---
+
+## 👨‍💻 Developed By
+
+**Mohip Ghosh**
+
+Android Development Intern @ CodeSoft
+
+---
+
+⭐ Thank you for visiting this repository.
