@@ -1,26 +1,38 @@
-# Android To-Do List App
+# Android Development Internship - CodeSoft
 
-## 📌 Description
-This is a simple Android To-Do List application developed using Java in Android Studio as part of the CodeSoft Android Development Internship (Task 1).
+This repository contains all the tasks completed for the CodeSoft Android Development Internship.
 
-## ✨ Features
+## Task 1: Android To-Do List App
+
+### Description
+A simple Android To-Do List application developed using Java and Android Studio.
+
+### Features
 - Add new tasks
-- Edit existing tasks
+- Edit tasks
 - Delete tasks
 - Mark tasks as completed
+
+---
+
+## Task 2: Android Quiz App
+
+### Description
+A simple Quiz Application developed using Java and Android Studio.
+
+### Features
+- Multiple choice questions
+- Instant correct/wrong feedback
+- Next Question button
 - User-friendly interface
 
-## 🛠️ Technologies Used
+---
+
+## Technologies Used
 - Java
 - Android Studio
-- RecyclerView
-- SQLite
+- XML
+- SQLite (Task 1)
 
-## 🚀 How to Run
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Sync Gradle.
-4. Run the app on an emulator or Android device.
-
-## 👨‍💻 Author
+## Developer
 Mohip Ghosh
